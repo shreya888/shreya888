@@ -8,7 +8,7 @@ I am a Postgraduate at the Australian National University, majoring in Machine L
 - 🔭 I’m currently working on Classification of Traffic signs, Sentiment Analysis with BERT using Pytorch
 - 🌱 I’m currently learning GANs
 - 👯 I’m looking to collaborate on any of the above topics
-- 🤔 I’m looking for help with statistics for machine learning
+- 🤔 I’m looking for help with time management!
 - 💬 Ask me about Machine Learning and Natural Language Processing
 - 📫 How to reach me: Feel free to drop me a mail at shreyachawla1798@gmail.com
 - 😄 Pronouns: she/her
